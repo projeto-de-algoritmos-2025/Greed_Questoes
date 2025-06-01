@@ -1,19 +1,23 @@
-# Greed_Questoes
+# 📘 Lista 3 - Greed
 
 **Número da Lista**: 3<br>
 **Conteúdo da Disciplina**: Greed<br>
 
-## Alunos
-|Matrícula | Aluno |
-| -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+## 👨‍💻 Alunos
+
+| Matrícula   | Aluno                        |
+| ----------- | ---------------------------- |
+| 20/0060783  | Ana Beatriz W. Massuh        |
+| 21/1063194  | Lucas Victor F. de Araújo    |
+
 
 ## Sobre 
 Descreva os objetivos do seu projeto e como ele funciona. 
 
-## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+## 🖼️ Screenshots
+
+### Questão 1
+<img src="Questões/imagens/Solucao1.png" alt="Q1" width="600"/>
 
 ## Instalação 
 **Linguagem**: xxxxxx<br>
