@@ -11,8 +11,33 @@
 | 21/1063194  | Lucas Victor F. de Araújo    |
 
 
-## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+
+## 📌 Sobre
+
+Este repositório contém as soluções desenvolvidas para a Lista 2 da disciplina de Algoritmos Ambiciosos.
+
+As atividades abordam problemas clássicos de otimização e tomada de decisão, com foco em eficiência algorítmica, clareza e aplicabilidade prática.
+
+### 🧠 Conteúdo Abordado
+#### Problemas de agendamento e otimização:
+
+* Interval Scheduling (Agendamento de Intervalos Máximo)
+
+* Interval Partitioning (Particionamento de Intervalos)
+
+* Scheduling to Minimize Lateness (Agendamento para Minimizar Atrasos)
+
+#### Problemas de seleção e empacotamento:
+
+* Knapsack Problem (Problema da Mochila)
+
+* Algoritmo do Trocador (Coin Change)
+
+* Algoritmo do Caminhoneiro (Truck Driver Problem)
+
+* Compressão e codificação:
+
+* Huffman Codes (Codificação de Huffman)
 
 ## 🖼️ Screenshots
 
@@ -33,11 +58,22 @@ Descreva os objetivos do seu projeto e como ele funciona.
 **Linguagem utilizada**: Python  
 **Bibliotecas necessárias**: Nenhuma biblioteca externa além da padrão.
 
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+## 💡 Como Executar
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/projeto-de-algoritmos-2025/Greed_Questoes.git
+   ```
+
+2. Navegue até o diretório do projeto:
+    ``` bash
+    cd Grafos_2
+    ```
+
+3. Execute os scripts em Python com:
+   ```bash
+   python3 nome_do_arquivo.py
+   ```
 
 ## Questões:
 
