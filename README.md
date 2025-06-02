@@ -22,6 +22,9 @@ Descreva os objetivos do seu projeto e como ele funciona.
 ### Questão 2
 <img src="Questões/imagens/Solucao2.png" alt="Q2" width="600"/>
 
+### Questão 3
+<img src="Questões/imagens/Solução_3.png" alt="Q3" width="600"/>
+
 ## ⚙️ Instalação
 
 **Linguagem utilizada**: Python  
@@ -41,5 +44,6 @@ Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
 | ------------------| ----------------------- | ----------------------- |
 | [Questão 1](https://github.com/projeto-de-algoritmos-2025/Greed_Questoes/blob/main/Questões/Questão1.md)| [Solução 1](https://github.com/projeto-de-algoritmos-2025/Greed_Questoes/blob/main/Soluções/Solucao1.py)| Difícil |
 | [Questão 2](https://github.com/projeto-de-algoritmos-2025/Greed_Questoes/blob/main/Questões/Questão2.md)| [Solução 2](https://github.com/projeto-de-algoritmos-2025/Greed_Questoes/blob/main/Soluções/Solucao2.py)| Difícil |
+| [Questão 3](https://github.com/projeto-de-algoritmos-2025/Greed_Questoes/blob/main/Questões/Questão3.md)| [Solução 2](https://github.com/projeto-de-algoritmos-2025/Greed_Questoes/blob/main/Soluções/Solucao3.py)| Medium |
 
 
