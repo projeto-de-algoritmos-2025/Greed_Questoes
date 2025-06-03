@@ -10,7 +10,12 @@
 | 20/0060783  | Ana Beatriz W. Massuh        |
 | 21/1063194  | Lucas Victor F. de Araújo    |
 
+---
+## 📽️ Vídeo de explicação
 
+<p align="center">
+  <a href="https://youtu.be/Y5oH59j0esk">🔗 Clique aqui para assistir ao vídeo no YouTube</a>
+</p>
 
 ## 📌 Sobre
 
@@ -86,3 +91,7 @@ As atividades abordam problemas clássicos de otimização e tomada de decisão,
 | [Questão 3](https://github.com/projeto-de-algoritmos-2025/Greed_Questoes/blob/main/Questões/Questão3.md)| [Solução 3](https://github.com/projeto-de-algoritmos-2025/Greed_Questoes/blob/main/Soluções/Solucao3.py)| Medium |
 | [Questão 4](https://github.com/projeto-de-algoritmos-2025/Greed_Questoes/blob/main/Questões/Questão4.md)| [Solução 4](https://github.com/projeto-de-algoritmos-2025/Greed_Questoes/blob/main/Soluções/Solucao4.py)| Medium |
 
+
+<p align="center">
+  <sub>Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a> e <a href="https://github.com/AnaBeatrizMassuh">Ana Beatriz W. Massuh</a>, 2025</sub>
+</p>
